@@ -1,0 +1,5 @@
+Student name: Coen de Vries
+Student number: 668358
+Student class: HAINFVT1D
+URL student GitHub website: https://CoenDV.github.io
+URL student GitHub repository: https://github.com/CoenDV/CoenDV.github.io
